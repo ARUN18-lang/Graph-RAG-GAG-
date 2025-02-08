@@ -1,0 +1,7 @@
+langchain
+neo4j
+langchain_community
+langchain_groq
+langchain_core
+pandas
+groq
